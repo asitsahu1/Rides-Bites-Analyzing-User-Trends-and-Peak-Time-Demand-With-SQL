@@ -1,0 +1,11 @@
+restaurant_id,name,cuisine_type,location,rating
+401,Restaurant A,Italian,Location X,4.1
+402,Restaurant B,Thai,Location Y,4.7
+403,Restaurant C,Thai,Location Z,4.5
+404,Restaurant D,Chinese,Location [,4.6
+405,Restaurant E,Thai,Location \,4.3
+406,Restaurant F,Indian,Location ],4.7
+407,Restaurant G,Thai,Location ^,4.5
+408,Restaurant H,Chinese,Location _,4.8
+409,Restaurant I,Chinese,Location `,4.3
+410,Restaurant J,Indian,Location a,4.5

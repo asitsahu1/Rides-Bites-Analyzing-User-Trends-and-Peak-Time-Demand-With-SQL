@@ -1,0 +1,11 @@
+driver_id,name,rating,vehicle_type
+101,Driver A,4.7,Car
+102,Driver B,4.3,Car
+103,Driver C,4.3,Car
+104,Driver D,4.8,Bike
+105,Driver E,4.5,Bike
+106,Driver F,4.6,Bike
+107,Driver G,4.7,Car
+108,Driver H,4.7,Bike
+109,Driver I,4.0,Bike
+110,Driver J,5.0,Car
